@@ -87,3 +87,11 @@ body {
     border-radius: 120px 120px 100px 100px;
     z-index: 5;
 }
+.belly{
+    height: 80%;
+    width: 90%;
+    background: white;
+    top: 10%;
+    left: 5%;
+    border-radius: 40%  40% 40% 40%;
+}
