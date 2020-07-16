@@ -113,3 +113,11 @@ body {
     z-index: 10;
     border-radius: 50%;
 }
+.sparkle{
+    top: 25%;
+    left: 15%;
+    background: white;
+    width: 35%;
+    height: 35%;
+    border-radius: 50%;
+}
