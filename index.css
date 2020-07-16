@@ -37,6 +37,7 @@ body {
     width: 30%;
     border-radius: 60px 60px 120px 20px;
     transform: rotate(50deg);
+    z-index: -1;
 }
 .left-hand{
     background: black;
@@ -46,6 +47,7 @@ body {
     left: 90%;
     transform: rotate(-50deg);
     border-radius: 60px 60px 20px 120px;
+    z-index: -1;
 }
 .right-feet{
     height:25%;
@@ -66,4 +68,22 @@ body {
     border-radius: 50% 50% 50% 50%;
     transform: rotate(35deg);
     z-index: -1;
+}
+.right-cheek{
+    height: 80%;
+    width: 48%;
+    background: white;
+    top: 10%;
+    left: 10%;
+    border-radius: 120px 120px 100px 100px;
+    z-index: 5;
+}
+.left-cheek{
+    height: 80%;
+    width: 48%;
+    background: white;
+    top: 10%;
+    left: 43%;
+    border-radius: 120px 120px 100px 100px;
+    z-index: 5;
 }
