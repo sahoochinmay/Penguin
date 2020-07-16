@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: border-box;
+    background-color: aqua;
+}
+.penguin{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    margin: auto;
+    margin-top: 30px;
+}
