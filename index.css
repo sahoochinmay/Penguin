@@ -15,10 +15,17 @@ body {
   }
 .penguin-top{
     top: 10%;
-    left: 23.5%;
+    left: 25%;
     background: blanchedalmond;
-    width: 53%;
-    height: 45%;
+    width: 50%;
+    height: 43%;
     border-radius: 120px 120px 100px 100px;
 }
-
+.penguin-bottom{
+    width: 53%;
+    height: 45%;
+    background-color: blanchedalmond;
+    top: 40%;
+    left: 23.5%;
+    border-radius: 100px 100px 120px 120px;
+}
