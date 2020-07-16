@@ -139,3 +139,21 @@ body {
     left: 70%;
     border-radius: 50%;
 }
+.beak-top{
+    height: 9%;
+    width: 21%;
+    background: gold;
+    z-index: 20;
+    top: 68%;
+    left: 41%;
+    border-radius: 50%;
+}
+.beak-bottom{
+    height: 13%;
+    width: 16%;
+    background: gold;
+    z-index: 20;
+    top: 71.5%;
+    left: 43.5%;
+    border-radius: 50%;
+}
