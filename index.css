@@ -4,7 +4,7 @@ body {
 .penguin{
     height: 500px;
     width: 500px;
-    background-color: white;
+    /* background-color: white; */
     margin: auto;
     margin-top: 30px;
     position: relative;
@@ -46,4 +46,24 @@ body {
     left: 90%;
     transform: rotate(-50deg);
     border-radius: 60px 60px 20px 120px;
+}
+.right-feet{
+    height:25%;
+    width: 40%;
+    background: gold;
+    top: 89%;
+    left: 10%;
+    border-radius: 50% 50% 50% 50%;
+    z-index: -1;
+    transform: rotate(-35deg);
+}
+.left-feet{
+    height: 25%;
+    width: 40%;
+    background: gold;
+    top: 89%;
+    left: 60%;
+    border-radius: 50% 50% 50% 50%;
+    transform: rotate(35deg);
+    z-index: -1;
 }
